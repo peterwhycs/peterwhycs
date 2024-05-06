@@ -30,8 +30,8 @@ Welcome to my space! I’m Peter, a seasoned Senior Engineer in Data Engineering
 
 ### 📫 How to reach me:
 
-- **LinkedIn**: [Peter Yuan's LinkedIn](https://www.linkedin.com/in/peterwhycs)
-- **Email**: [Peter Yuan's Email](mailto:peterwhycs@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/peterwhycs)
+- [Email](mailto:peterwhycs@gmail.com)
 
 Let's connect and explore how data can drive change in our world!
 
